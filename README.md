@@ -38,7 +38,7 @@ dist/
 
 ### 安装
 
-Include files:
+包含文件:
 
 ```html
 <script src="/path/to/jquery.js"></script><!-- jQuery is required -->
@@ -47,9 +47,9 @@ Include files:
 ```
 
 
-### Usage
+### 用法
 
-Initialize with `$.fn.datepicker` method.
+选项 您可以设置日期选择器选项 `$.fn.datepicker` method.
 
 ```html
 <input data-toggle="datepicker">
