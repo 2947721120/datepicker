@@ -1,23 +1,19 @@
-# Datepicker
+日期选择器 。
+> 一个简单的jQuery日期选择器插件.
 
-> A simple jQuery datepicker plugin.
-
-- [Homepage](http://fengyuanchen.github.io/datepicker)
-
-
-
-## Features
-
-- Supports [options](#options)
-- Supports [methods](#methods)
-- Supports [events](#events)
-- Supports inline mode
-- Supports touch (mobile)
-- Cross-browser support
+- [设为首页](https://github.com/2947721120/datepicker)
+## 特征
+支持事件 支持在线模式 支持触摸（手机） 
+- 支持[options](#选项)
+- 支持 [methods](#方法)
+- 支持 [events](#事件)
+- 支持 在线模式
+- 支持 触摸 (手机)
+-跨浏览器支持
 
 
 
-## Main
+## 主要
 
 ```
 dist/
