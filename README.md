@@ -25,18 +25,18 @@ dist/
 
 
 
-## Getting started
+## 入门
 
-### Quick start
+###快速开始
 
-Three quick start options are available:
+三快速启动选项：:
 
-- [Download the latest release](https://github.com/fengyuanchen/datepicker/archive/master.zip).
-- Clone the repository: `git clone https://github.com/fengyuanchen/datepicker.git`.
-- Install with [NPM](http://npmjs.org): `npm install @fengyuanchen/datepicker`.
+- [下载最新版本](https://github.com/2947721120/datepicker/archive/master.zip).
+- 克隆库: `git clone https://github.com/fengyuanchen/datepicker.git`.
+- 与安装 [NPM](http://npmjs.org): `npm install @fengyuanchen/datepicker`.
 
 
-### Installation
+### 安装
 
 Include files:
 
